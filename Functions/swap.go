@@ -1,5 +1,7 @@
 package main
 
+//Call by value
+//It shows that there is no change in the values though they had been changed inside the function.
 import "fmt"
 
 func main() {
